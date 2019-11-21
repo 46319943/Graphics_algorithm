@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: OPPWMJExe - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP7C3E.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/OPPWMJExe.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\C++\L1\OPPWMJExe\GeoLayer.cpp"
+"E:\C++\L1\OPPWMJExe\GeoMap.cpp"
+"E:\C++\L1\OPPWMJExe\GeoPoint.cpp"
+"E:\C++\L1\OPPWMJExe\OPPWMJExe.cpp"
+"E:\C++\L1\OPPWMJExe\OPPWMJExeView.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP7C3E.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP7C3F.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/OPPWMJExe.pdb" /debug /machine:I386 /out:"Debug/OPPWMJExe.exe" /pdbtype:sept 
+".\Debug\GeoLayer.obj"
+".\Debug\GeoMap.obj"
+".\Debug\GeoObject.obj"
+".\Debug\GeoPoint.obj"
+".\Debug\MainFrm.obj"
+".\Debug\OPPWMJExe.obj"
+".\Debug\OPPWMJExeDoc.obj"
+".\Debug\OPPWMJExeView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\OPPWMJExe.res"
+".\Debug\GeoPolyline.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP7C3F.tmp"
+<h3>Output Window</h3>
+Compiling...
+GeoPoint.cpp
+OPPWMJExeView.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+GeoLayer.cpp
+GeoMap.cpp
+OPPWMJExe.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+OPPWMJExe.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
